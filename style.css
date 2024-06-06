@@ -1,3 +1,19 @@
+.tc-white2{
+    color: #333333 !important;
+}
+.remplacement{
+    color: #575757 !important;
+    font-weight: bold;
+    font-size:22px !important;
+}
+.remplacement__citation{ 
+    color:#575757 !important;
+    font-size:20px !important;
+    font-style: italic;
+}
+
+
+
 body {
     margin: 0;
     padding: 0;
@@ -723,7 +739,7 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: #333333;
 }
 
 h4 {
@@ -779,11 +795,11 @@ h4 {
 }
 
 .tc-white {
-    color: #ffffff!important;
+    color: #edc39c !important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #f8a179;
     color: #FFFFFF!important;
 }
 
@@ -1044,3 +1060,9 @@ h4 {
         text-align: center;
     }
 }
+
+
+.remplacement{
+    font-size:25px;
+}
+
